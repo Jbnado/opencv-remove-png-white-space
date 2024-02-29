@@ -1,0 +1,16 @@
+.shelf {
+  display: flex;
+  padding: 4px;
+  align-items: end;
+  gap: 2px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.canvas {
+  align-self: center;
+}
